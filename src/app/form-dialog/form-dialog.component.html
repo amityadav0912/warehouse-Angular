@@ -1,7 +1,7 @@
 <h2 mat-dialog-title>Add Product Form</h2>
-<div mat-dialog-content>
+<div  mat-dialog-content>
   <form [formGroup]="productForm">
-    <mat-form-field appearance="outline">
+    <mat-form-field appearance="outline" style="margin-top: 10px">
       <mat-label>Product Name</mat-label>
       <input
         formControlName="productName"
@@ -22,7 +22,6 @@
     <mat-form-field appearance="outline">
       <mat-label>Choose a date</mat-label>
       <input formControlName="date" matInput [matDatepicker]="picker" />
-      <mat-hint>MM/DD/YYYY</mat-hint>
       <mat-datepicker-toggle
         matIconSuffix
         [for]="picker"
@@ -30,7 +29,7 @@
       <mat-datepicker #picker></mat-datepicker>
     </mat-form-field>
 
-    <label><h1>Product Freshness</h1> </label>
+    <label><h1 style="margin-top: 10px">Product Freshness</h1> </label>
     <mat-radio-group formControlName="freshness" class="example-radio-group">
       <mat-radio-button
         class="example-radio-button"
@@ -54,5 +53,5 @@
 </div>
 <mat-dialog-actions align="end">
   <button mat-button mat-dialog-close>Cancel</button>
-  <button mat-button [mat-dialog-close]="true" cdkFocusInitial (click)=addProduct()>Submit</button>
+  <button mat-button cdkFocusInitial (click)=addProduct()>{{actionButton}}</button>
 </mat-dialog-actions>

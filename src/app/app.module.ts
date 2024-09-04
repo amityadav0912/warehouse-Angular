@@ -15,6 +15,9 @@ import {MatSelectModule} from '@angular/material/select';
 import {MatDatepickerModule} from '@angular/material/datepicker';
 import { MatNativeDateModule } from '@angular/material/core';
 import {MatRadioModule} from '@angular/material/radio';
+import { MatSortModule } from '@angular/material/sort';
+import { MatTableModule } from '@angular/material/table';
+import {MatPaginatorModule} from '@angular/material/paginator';
 import {
   MatDialogActions,
   MatDialogClose,
@@ -23,6 +26,7 @@ import {
 } from '@angular/material/dialog';
 import { FormDialogComponent } from './form-dialog/form-dialog.component';
 import { ReactiveFormsModule } from '@angular/forms';
+import { HttpClientModule } from '@angular/common/http';
 
 @NgModule({
   declarations: [
@@ -47,6 +51,10 @@ import { ReactiveFormsModule } from '@angular/forms';
   MatNativeDateModule,
   MatRadioModule,
   ReactiveFormsModule,
+  HttpClientModule,
+  MatTableModule,
+  MatPaginatorModule,
+  MatSortModule
   ],
   providers: [
     provideClientHydration(),

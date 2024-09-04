@@ -1,0 +1,113 @@
+{
+  "productList": [
+    {
+      "productName": "Macbook",
+      "category": "Laptop",
+      "date": "2024-09-03T18:30:00.000Z",
+      "freshness": "Second Hand",
+      "price": 90000,
+      "comment": "1 Year Old",
+      "id": "9311"
+    },
+    {
+      "productName": "One Plus Nord 3",
+      "category": "Moblie",
+      "date": "2024-09-03T18:30:00.000Z",
+      "freshness": "Brand New",
+      "price": 20000,
+      "comment": "Amazon steal.",
+      "id": "d6cb"
+    },
+    {
+      "productName": "Macbook",
+      "category": "Laptop",
+      "date": "2024-09-03T18:30:00.000Z",
+      "freshness": "Second Hand",
+      "price": 90000,
+      "comment": "1 Year Old",
+      "id": "9311"
+    },
+    {
+      "productName": "One Plus Nord 3",
+      "category": "Moblie",
+      "date": "2024-09-03T18:30:00.000Z",
+      "freshness": "Brand New",
+      "price": 20000,
+      "comment": "Amazon steal.",
+      "id": "d6cb"
+    },
+    {
+      "productName": "Macbook",
+      "category": "Laptop",
+      "date": "2024-09-03T18:30:00.000Z",
+      "freshness": "Second Hand",
+      "price": 90000,
+      "comment": "1 Year Old",
+      "id": "9311"
+    },
+    {
+      "productName": "One Plus Nord 3",
+      "category": "Moblie",
+      "date": "2024-09-03T18:30:00.000Z",
+      "freshness": "Brand New",
+      "price": 20000,
+      "comment": "Amazon steal.",
+      "id": "d6cb"
+    },
+    {
+      "productName": "Macbook",
+      "category": "Laptop",
+      "date": "2024-09-03T18:30:00.000Z",
+      "freshness": "Second Hand",
+      "price": 90000,
+      "comment": "1 Year Old",
+      "id": "9311"
+    },
+    {
+      "productName": "One Plus Nord 3",
+      "category": "Moblie",
+      "date": "2024-09-03T18:30:00.000Z",
+      "freshness": "Brand New",
+      "price": 20000,
+      "comment": "Amazon steal.",
+      "id": "d6cb"
+    },
+    {
+      "productName": "Macbook",
+      "category": "Laptop",
+      "date": "2024-09-03T18:30:00.000Z",
+      "freshness": "Second Hand",
+      "price": 90000,
+      "comment": "1 Year Old",
+      "id": "9311"
+    },
+    {
+      "productName": "One Plus Nord 3",
+      "category": "Moblie",
+      "date": "2024-09-03T18:30:00.000Z",
+      "freshness": "Brand New",
+      "price": 20000,
+      "comment": "Amazon steal.",
+      "id": "d6cb"
+    },
+    {
+      "productName": "Macbook",
+      "category": "Laptop",
+      "date": "2024-09-03T18:30:00.000Z",
+      "freshness": "Second Hand",
+      "price": 90000,
+      "comment": "1 Year Old",
+      "id": "9311"
+    },
+    {
+      "productName": "One Plus Nord 3",
+      "category": "Moblie",
+      "date": "2024-09-03T18:30:00.000Z",
+      "freshness": "Brand New",
+      "price": 20000,
+      "comment": "Amazon steal.",
+      "id": "d6cb"
+    }
+
+  ]
+}
